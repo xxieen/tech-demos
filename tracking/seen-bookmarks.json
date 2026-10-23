@@ -1,14 +1,16 @@
 {
-  "proposed": [
+  "proposed": [],
+  "built": [
     {
       "id": "2111692290565771474",
       "title": "Reason Network",
       "url": "https://x.com/0xLogicrw/status/2111692290565771474",
       "date": "2026-10-23",
       "source_post_id": "2111135100142518430",
-      "product_url": "https://reasonmachines.com/network"
+      "product_url": "https://reasonmachines.com/network",
+      "pr": "https://github.com/xxieen/tech-demos/pull/1",
+      "slug": "reason-network"
     }
   ],
-  "built": [],
   "skipped": []
 }
